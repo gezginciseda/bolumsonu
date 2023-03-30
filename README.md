@@ -1,2 +1,2 @@
 # bolumsonu
-Bölüm sonu çalışması
+Bölüm sonu çalışması https://app.patika.dev/
